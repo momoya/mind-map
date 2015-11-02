@@ -1,2 +1,2 @@
 # mind-map
-Some mind-map about security/web/maintainance
+Some mind-maps about security/web/maintainance
